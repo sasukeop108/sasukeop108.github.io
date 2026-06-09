@@ -47,10 +47,10 @@ nav a:hover{
 }
 
 header, section {
-    margin: 2em auto;
+    margin: 0 auto;
     width: min(75em, 100%);
     background: color #f9f6f3;
-    padding: min(2em, 15%);
+    padding: 0 min(2em, 15%);
     border-radius: 1em;
 }
 
@@ -173,6 +173,7 @@ border-radius: 8px ;
    padding-left: 7px;
    background-color: lightblue;
    border-color: darkcyan;
+   padding: 10px;
 
 }
 
